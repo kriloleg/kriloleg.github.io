@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "ua" }}">
 
   {%- include head.html -%}
 
@@ -7,9 +7,13 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content" style="display: flex;"" aria-label="Content">
       <div class="wrapper">
         {{ content }}
+      </div>
+
+      <div style="vertical-align: top; text-align: start; margin-right: auto;">
+        {%- include categories.html -%}
       </div>
     </main>
 
