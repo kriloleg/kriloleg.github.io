@@ -3,3 +3,24 @@
 ---
 
 @import "minima";
+
+.categories-list {
+    margin-bottom: 1em;
+
+    a {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+.categories-list-item {
+    display: inline-block;
+    border: 1px dashed grey;
+    border-radius: 10px;
+    padding: 2px 5px;
+
+    &:hover {
+        border: 1px solid black;
+    }
+}

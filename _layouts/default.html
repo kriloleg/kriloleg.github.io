@@ -7,13 +7,13 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" style="display: flex;"" aria-label="Content">
+    <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+        {%- include categories.html -%}
       </div>
 
-      <div style="vertical-align: top; text-align: start; margin-right: auto;">
-        {%- include categories.html -%}
+      <div class="wrapper">
+        {{ content }}
       </div>
     </main>
 
