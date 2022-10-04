@@ -142,3 +142,10 @@ tags: Гештальт Гештальт-Навчання Гештальт-Кон
 - приглушений інстинкт самозбереження
 - невміння доводити справи до кінця
 
+## Додаток
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1348405177&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/psyfaq" title="psyFAQ" target="_blank" style="color: #cccccc; text-decoration: none;">psyFAQ</a> · <a href="https://soundcloud.com/psyfaq/oksana-korolovich" title="Конференция &quot;Агрессия во время войны&quot; 14-15 сентября 2022 г. - Оксана Королович" target="_blank" style="color: #cccccc; text-decoration: none;">Конференция &quot;Агрессия во время войны&quot; 14-15 сентября 2022 г. - Оксана Королович</a></div>
+
+## Посилання
+
+1. [Презентація](https://drive.google.com/file/d/1zcig7PqNdvGkO3Y8ygCECwYrQirzi4xB/view?usp=sharing)
