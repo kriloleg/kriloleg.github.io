@@ -97,3 +97,33 @@ This is shutter speed mode (could catch an action, but there is a price in ISO)
 And this one is aperture priority mode (cat was preaty steady, so I could keep ISO pretty low here)
 
 ![](/assets/2023-02-07/photo_2023-02-07_20-29-48.jpg)
+
+# ADVANCED: Dynamic range
+
+- general contrast and exposure - low dynamic range
+- high contrast, different exposure - high dynamic range
+
+Need to shoot in RAW.
+
+# ADVANCED: HDR photos
+
+Bracketing - technique which can help you to create HDR photo from the cameras which doesn't support this feature.
+
+Lightroom can help to edit and layer photo on each other to bring the high dynamic range.
+
+# ADVANCED: Exposure from the histogram
+
+- Left - shadows (may show on underexposed)
+- Right - lights (may show on overexposed)
+
+# ADVANCED: Exposure stops
+
+Stop of light is a way to calculate light and how much is getting your camera.
+
+- Increasing by 1 stop = 2x the light
+- Decreasing by 1 stop = 1/2 the light
+
+Examples:
+- Aperture: F/2 to F/2.8 = 1 stop (cutting light in a half)
+- Shutter speed: 1/30 to 1/15 = + 1 stop (doubling amount of light)
+- ISO: 400 to 200 = -1 stop (cutting light in a half)
