@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /category/IT/
+permalink: /category/it/
 title: IT
 ---
 
