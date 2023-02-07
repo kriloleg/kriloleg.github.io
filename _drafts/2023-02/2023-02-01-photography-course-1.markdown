@@ -70,8 +70,6 @@ Middle of the day, outisde, a bit cloudy weather
 1. Spot metering - exposure from the single point you are focusing. Is a good for some photos like photos of moon (some contrasting), black dog on the snow
 1. Center-weighted - from the center and some space around. Your subject should be really in the center
 
-> TODO: Make some photos, using these 3 modes
-
 # ADVANCED:  Exposure compensation
 
 Adjusting exposure can be done in some automatic modes to add more light or darkness. It's based on the (shutter speed, aperture, iso)
@@ -85,7 +83,17 @@ Adjusting exposure can be done in some automatic modes to add more light or dark
 1. Auto mode (A+) - camera will try to decide without you all the configurations. Great to get some good generally-exposed photos, but you can get high ISO and not very good quality photo
 1. Program mode (P) - set shutter and aperture (adjust them)
 1. Aperture priority (Av) - when you know what depth of field you want. Camera selects shutter speed
-1.  Shutter priority (Tv/Sp) - camera selects aperture. Good for the sport, freezing some action
+1. Shutter priority (Tv/Sp) - camera selects aperture. Good for the sport, freezing some action
 1. Manual mode (M) - user selects everything for the photo he takes.
 
-> TODO: Make some photos, using these modes
+## Homework
+
+Personally tried it one more time (it's not yet some deep knowledge inside me, but it's getting better for the time when and what you need. Somewhere to catch some action, and somewhere to bring this depth of field). My cat - model ;)
+
+This is shutter speed mode (could catch an action, but there is a price in ISO)
+
+![](/assets/2023-02-07/photo_2023-02-07_20-30-27.jpg)
+
+And this one is aperture priority mode (cat was preaty steady, so I could keep ISO pretty low here)
+
+![](/assets/2023-02-07/photo_2023-02-07_20-29-48.jpg)
