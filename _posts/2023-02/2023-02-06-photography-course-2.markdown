@@ -55,3 +55,45 @@ Negative space (this style is really interesting. Would be great to take some sh
 ![](/assets/2022-02-10/photo_2023-02-10%2010.40.34.jpeg)
 
 Also, from my feelings, would be really great to have some photo done with a reflection to create some symmetry.
+
+# Perspective and Angel
+
+Wide and telephoto lenses give different kind of composition.
+
+Focal length - distance (in mm) between the camera sensor and the lens's optical center (where light rays converge)
+
+A smaller focal length - the wider, the bigger - the telephoto. Less than 35mm - wide, 70 telephoto, 70-300 medium telephoto, 300+ super telephoto.
+
+Perspective - the fact that nearby objects appear larger than objects further away.
+
+Using wide lens close to the subject - makes bigger and see more distance compared to the background. **Exaggerated perspective**
+
+Using tele lens close to the subject - makes **compressed perspective**, when distant and close objects appear more similar in size
+
+# Backgrounds
+
+Big part of advanced photographers - is to get the nice background.
+
+Eliminate distractions in your background when the subject is the main focus.
+
+- Look for bright spots or distracting colors (in the background). Move them away or move yourself in that case to avoid distraction on photo
+- Look for lines protruding from your subject (trees, power lines)
+- Pay attention to the horizon. Avoid it going through the subject's head. (make lower/higher or cut from the photo completely by getting higher)
+- Create separation between the subject and background (make them go further from the 'background' and/or add some F-stops). By blurying backgound you pass more focus to the subject.
+
+# TIP 1: Creating Depth with Layering
+
+There are always three layers:
+- foreground
+- subject
+- background
+
+Playing with them together may help to create good depth of field. (also, there can be more layers for background/foreground)
+
+# TIP 2: Shooting portratis (wide/telephoto)
+
+It's much better to make portraits from telephoto lenses instead.
+
+# Resources
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7ZVyNjKSr0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
