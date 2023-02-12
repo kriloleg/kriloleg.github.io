@@ -32,3 +32,11 @@ Here is the shot with Shutter Speed 1/500, trying to keep cat shart while runnin
 And here is the shot with Shutter Speed 1/50, trying to blur background while keep cat as sharp as possible
 
 ![](/assets/2022-02-11/photo_2023-02-11%2013.49.43.jpeg)
+
+# TIP 2: Focusing in Low Light
+
+It can be hard for camera to auto-focus in low-light condition when subject and background can not be determined. There are several things you can do:
+
+1. Add more light
+2. Use camera settings (ISO/Aperture). ISO - not to hight, to avoid noise, Aperture - the smaller number the more depth of field (lose of focus on sides of the object). Shutter speed less than 60 can lead to motion blur which will affect sharpeness of the image
+3. Add light, focus manually, turn light off, make a shot
