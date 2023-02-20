@@ -55,12 +55,12 @@ Take a photo using color creatively:
 
 Here is the photo in black and white
 
-![](/assets/2022-02-19/photo_2023-02-20%2008.51.33.jpeg)
+![](/assets/2023-02-19/photo_2023-02-20%2008.51.33.jpeg)
 
 Here is the photo with a single tones (yes, it's also in black and white. I'm a cheater )
 
-![](/assets/2022-02-19/photo_2023-02-20%2008.51.30.jpeg)
+![](/assets/2023-02-19/photo_2023-02-20%2008.51.30.jpeg)
 
 Here is the photo with contrasting colors
 
-![](/assets/2022-02-19/photo_2023-02-20%2008.51.27.jpeg)
+![](/assets/2023-02-19/photo_2023-02-20%2008.51.27.jpeg)
