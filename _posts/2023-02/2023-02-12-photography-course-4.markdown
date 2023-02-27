@@ -6,7 +6,7 @@ categories: Фотографія
 tags: Конспект Фотографія Навчання
 ---
 
-White balance and colors
+This part of notes is related to the white balance and colors. Pretty interesting, regarding how much can be done by it. Part of the art. Some useful notes, as always, added.
 
 1. White & orane - warm and happy
 2. Blue - cold and cooler
