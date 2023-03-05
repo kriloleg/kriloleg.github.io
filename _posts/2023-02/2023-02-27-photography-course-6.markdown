@@ -16,3 +16,4 @@ This section is fully related to the lenses, types, details of the usage.
 - *Depth of field* - how much is in focus
 - *Aperture* - amount of light comming into camer
 - Most lenses shoot their 'sharpest' between f/4 - f5.6
+- Image stabilization is great for the sport and wildlife (+telephoto)
