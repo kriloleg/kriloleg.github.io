@@ -34,3 +34,13 @@ And this section is about landscape photography, product photography. Some tips 
 1. Pay attention to your product
 1. Increase production value with a reflection
 1. Edit the photos (clean background, add some contrasts, etc)
+
+## Homework
+
+Photo of the flobert gun, on the wight background and getting some more light correction to it
+
+![](/assets/2023-03-08/2023-03-12%2011.46.36.jpg)
+
+One of the best shot I ever had. Like the composition. It has some deep meening for me. Love colors there and light direction.
+
+![](/assets/2023-03-08/2023-03-12%2011.47.13.jpg)
