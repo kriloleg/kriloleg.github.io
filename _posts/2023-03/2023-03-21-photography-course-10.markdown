@@ -30,7 +30,13 @@ This section holds several lessons described, practiced as sport photography
 
 Using the tips in this section, shoot your own action photo. The photo could capture the moving subject perfectly sharp, or you can try to get a blurred background using our panning method.
 
-**// TODO (freeze action && blured background). Need Kostya for this or make some skateboarders photos, or Solomia on her bike**
+![](/assets/2023-04-01/photo_2023-04-04%2010.13.26.jpeg)
+
+![](/assets/2023-04-01/photo_2023-04-04%2010.13.35.jpeg)
+
+![](/assets/2023-04-01/photo_2023-04-04%2010.13.59.jpeg)
+
+![](/assets/2023-04-01/photo_2023-04-04%2010.14.25.jpeg)
 
 ## Macro photography
 
@@ -44,9 +50,7 @@ When the object you are photographing appears larger on the camera sensor than i
 4. Use a tripod
 5. Move backward and forward to focus
 
-**//TODO Using the tips in this section, shoot your own macro photo. Post your favorite photo(s) to this assignment. Try to photo some small objects (coins)**
-
-Ideas for photo: flowers, water drops, insects, spiders, food, household objects.
+![](/assets/2023-04-01/photo_2023-04-04%2010.11.24.jpeg)
 
 # Wildlife photography
 
@@ -70,3 +74,27 @@ I was following this small squirrel for almsot an hour to take this photo. 200mm
 I also like this photo of birds (unedited). 
 
 ![](/assets/2023-03-22/2023-03-22%2009.19.19.jpg)
+
+# Night photography
+
+## Tips
+
+1. Shoot in RAW
+2. Use a Tripod
+3. Increase your depth of field
+4. Bring a flashlight
+5. Be careful with high ISO
+
+# Timelapse photography
+
+## Tips
+
+1. Interval chart
+  1. 1 second - fast action, cars moving, fast clouds
+  2. 1-3 seconds - crowds, sunset, sunrise, slow moving clouds
+  3. 15-30 seconds - stars, sun moving across sky
+  4. more than 30 seconds - plants growing, construction sites
+
+## Practice 
+
+<video width=800px src="/assets/2023-04-01/clouds-timelaps.mp4" controls></video>
